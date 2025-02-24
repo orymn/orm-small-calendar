@@ -1,4 +1,4 @@
-﻿# Small Calendar Application
+﻿# Small Calendar App
  This minimalist calendar only shows the month, year, and day, making it simple and clutter-free so you can quickly see the current date. 📅✨
 
 ## Features
